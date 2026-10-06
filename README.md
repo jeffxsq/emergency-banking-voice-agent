@@ -63,7 +63,6 @@ emergency-banking-voice-agent/
 ### Prerequisites
 
 - Python 3.10+
-- An [ElevenLabs API Key](https://elevenlabs.io/) & Agent ID
 - [ngrok](https://ngrok.com/) installed
 
 
