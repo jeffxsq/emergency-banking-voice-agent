@@ -34,7 +34,7 @@ flowchart TD
 ## 🛠 Tech Stack
 
 - **Backend:** FastAPI (Python), Uvicorn, HTTPX, Pydantic
-- **Frontend:** Vanilla HTML5, JavaScript (ES6+), `@elevenlabs/client` SDK
+- **Frontend:** ElevenLabs Dashboard / Agent (Voice Testing Interface)
 - **Voice AI Platform:** ElevenLabs Conversational AI
 - **Tunneling:** ngrok
 
