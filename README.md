@@ -66,13 +66,6 @@ emergency-banking-voice-agent/
 - [ngrok](https://ngrok.com/) installed
 
 
-## 🚀 Quickstart
-
-### Prerequisites
-
-- Python 3.10+
-- [ngrok](https://ngrok.com/) installed
-
 
 ## 1. Backend Setup
 ### Clone the repository
