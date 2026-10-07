@@ -24,10 +24,11 @@ flowchart TD
 
 ## ✨ Key Features
 
-- **Real-Time Voice Interface:** Low-latency audio streaming via ElevenLabs WebSockets using `@elevenlabs/client`.
-- **Direct Web Socket Integration:** Direct client-side agent session initialization via Agent ID.
-- **Dynamic Tool Calling:** The AI automatically invokes external REST endpoints (`/api/v1/banking/freeze-card`) exposed via ngrok based on customer intent.
-- **Mock Banking Backend:** State management for account validation and card freezing operations.
+- **Real-Time Voice Interface:** Low-latency conversational audio powered by ElevenLabs Conversational AI voice agents.
+- **ElevenLabs Dashboard & Agent Config:** Agent behavior, system prompts, dynamic tool schemas, and voice selections configured directly within the ElevenLabs Dashboard.
+- **Dynamic Tool Calling:** The AI agent automatically invokes external REST endpoints (e.g., `/api/v1/banking/freeze-card`) exposed via ngrok based on customer intent during active calls.
+- **Mock Banking Backend:** State management for account validation, balance checks, and card freezing operations.
+
 
 ---
 
